@@ -273,6 +273,7 @@ td {
   max-width: 220px;
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none;
+  color: #292d32;
 }
 .pagination {
   display: flex;
